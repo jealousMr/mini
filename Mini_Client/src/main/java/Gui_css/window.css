@@ -1,0 +1,55 @@
+.root{
+   -fx-background-image: url("/GUI_img/LoginPage_img/back3.png");
+	-fx-padding:2,2,2,2;
+}
+#window{
+	-fx-background-image: url("/GUI_img/LoginPage_img/he.png");
+	-fx-border-width:10;
+	-fx-stroke-type:inside;
+	-fx-border-color:radial-gradient(radius 100%, #c9cc89, #cca329, #cc8f20);
+	-fx-background-repeat: no-repeat;
+}
+Rectangle{
+	-fx-stroke-width:10;
+	-fx-stroke:radial-gradient(radius 100%, #c8cfcb, #da9614, rgba(206, 166, 88, 0.96));
+	-fx-stroke-type:inside;
+	-fx-border-insets:5;
+}
+GridPane{
+	
+}
+#number{
+-fx-background-color: transparent;
+-fx-font-size: 13;
+	-fx-font-family: "Arial Black";
+	-fx-border-width: 0;
+}
+#sign{
+	-fx-background-color: transparent;
+
+}
+#topLea{
+	-fx-background-color: transparent;
+}
+#go{
+	-fx-border-width: 2;
+	-fx-border-color: #ffca4b;
+	-fx-border-radius: 10;
+}
+#sep{
+	-fx-border-color: orange;
+	-fx-background-color: yellow;
+}
+#logins {
+	-fx-border-radius: 500;
+	-fx-background-radius: 500;
+	-fx-border-width: 0;
+	-fx-background-color: transparent;
+}
+#login{
+	-fx-background-color: transparent;
+	-fx-border-width: 2;
+	-fx-border-color: #ffca4b;
+	-fx-background-radius: 20;
+	-fx-border-radius: 20;
+}

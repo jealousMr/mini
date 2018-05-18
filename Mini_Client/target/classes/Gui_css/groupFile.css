@@ -1,0 +1,7 @@
+#sep{
+    -fx-border-width: 5px;
+    -fx-background-color: #ffffff;
+}
+#close{
+    -fx-background-color: transparent;
+}

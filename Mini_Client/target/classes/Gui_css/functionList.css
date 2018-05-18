@@ -1,0 +1,19 @@
+#vb{
+    -fx-border-width: 2;
+    -fx-border-color: yellow;
+}
+#imgtou{
+    -fx-border-width: 2;
+    -fx-border-color: pink;
+}
+#ent{
+    -fx-font-size: 20;
+    -fx-text-fill: #787878;
+}
+#backk{
+    -fx-border-width: 2;
+    -fx-border-color: pink;
+}
+#close{
+    -fx-background-color: transparent;
+}

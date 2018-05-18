@@ -1,0 +1,40 @@
+#imgVbox{
+-fx-border-width: 2;
+    -fx-border-color: white;
+}
+#find{
+    -fx-background-color: transparent;
+    -fx-background-image: url("/GUI_img/LoginPage_img/friendMain/find.png");
+}
+#hb{
+    -fx-border-color:white;
+}
+#vb{
+    -fx-border-width: 2;
+    -fx-border-color: white;
+}
+#closeAll{
+    -fx-background-color: transparent;
+}
+#imgBox{
+    -fx-border-width: 3;
+    -fx-border-radius: 20;
+    -fx-border-color: #c7c7c7;
+    -fx-padding: 10,2,2,2;
+}
+.list-view{
+    -fx-background-color: transparent;
+}
+.list-cell{
+    -fx-background-color: transparent;
+}
+.list-view .scroll-bar:horizontal{
+    -fx-opacity: 0;
+    -fx-padding: -7;
+}
+#bbb{
+    -fx-background-color: transparent;
+    -fx-font-size: 20;
+    -fx-text-fill: #434343
+}
+

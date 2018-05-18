@@ -1,0 +1,49 @@
+#headBack{
+    -fx-background-color: transparent;
+    -fx-border-width: 1;
+    -fx-border-color: #b4c7ce;
+}
+#closeBtn{
+    -fx-background-color: transparent;
+    -fx-background-image: url("/GUI_img/LoginPage_img/personPage/closeBtns.png");
+}
+#title{
+    -fx-background-color: transparent;
+    -fx-border-color: transparent;
+    -fx-background-image: url("/GUI_img/LoginPage_img/personPage/tite.png");
+    -fx-background-repeat: no-repeat;
+}
+#imgBorder{
+    -fx-border-width: 2;
+    -fx-border-color: white;
+}
+#sercit{
+    -fx-border-color: #edfdff;
+    -fx-background-color:transparent ;
+    -fx-border-radius: 10;
+    -fx-background-radius: 10;
+}
+#bc{
+    -fx-background-image: url("/GUI_img/LoginPage_img/MainPageView_img/1232.png");
+    -fx-padding: 1,1,1,1;
+}
+#sexs{
+    -fx-background-color: #edfdff;
+    -fx-border-radius: 50;
+    -fx-background-radius: 50;
+}
+#iv{
+-fx-padding: 2,2,2,2;
+}
+#sub{
+    -fx-border-width: 2;
+    -fx-border-color: white;
+    -fx-background-color: transparent;
+    -fx-border-radius: 10;
+    -fx-background-radius: 10;
+}
+#vvv{
+    -fx-padding: 2,2,2,2;
+}
+
+

@@ -1,0 +1,45 @@
+#top{
+    -fx-background-color: #ffd78b;
+    -fx-padding: 2,2,2,2;
+}
+#close{
+    -fx-background-color: transparent;
+}
+#center{
+    -fx-padding: 3,3,3,3;
+}
+#fonts{
+    -fx-font-size: 12;
+    -fx-padding: 3,0,0,0;
+}
+#img{
+    -fx-border-width: 2;
+    -fx-border-color: white;
+    -fx-border-radius: 30;
+}
+#pro{
+    -fx-background-color: transparent;
+    -fx-border-width: 2;
+    -fx-border-color: #f6f6f6;
+    -fx-border-radius: 20;
+    -fx-background-radius: 20;
+}
+#signH{
+    -fx-border-width: 0;
+
+}
+#sign{
+    -fx-padding: 2,2,2,2;
+}
+#sub{
+    -fx-background-color: transparent;
+}
+#backs{
+    -fx-background-image: url("/GUI_img/LoginPage_img/MainPageView_img/1232.png");
+    -fx-background-repeat: no-repeat;
+}
+#sex{
+    -fx-border-width: 2;
+    -fx-border-color: orange;
+    -fx-background-color: transparent;
+}

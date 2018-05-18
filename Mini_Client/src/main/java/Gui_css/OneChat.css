@@ -1,0 +1,41 @@
+#hb{
+    -fx-border-width: 3;
+    -fx-border-color: pink;
+}
+#no{
+    -fx-background-color: transparent;
+}
+#pp{
+    -fx-background-color: transparent;
+    -fx-background-image: url("/GUI_img/LoginPage_img/small/1.png");
+}
+.titled-pane{
+    -fx-border-radius: 50;
+    -fx-background-radius: 50;
+}
+.text-field{
+    font-family: OpenSansEmoji;
+    src: url("/ConnectUtil/OpenSansEmoji.ttf");
+    -fx-font-size: 28;
+    -fx-text-fill: #787878;
+}
+#cc{
+    -fx-border-width: 3;
+    -fx-background-radius: 10;
+    -fx-border-radius: 10;
+    -fx-border-color: #5d5d5d;
+}
+.list-cell{
+    -fx-background-color: transparent;
+}
+.list-view{
+    -fx-background-color: transparent;
+}
+.list-view .scroll-bar:vertical{
+    -fx-background-color: #5d5d5d;
+    -fx-border-radius: 20;
+}
+.list-view .scroll-bar{
+    -fx-background-color: #5d5d5d;
+    -fx-border-radius: 20;
+}

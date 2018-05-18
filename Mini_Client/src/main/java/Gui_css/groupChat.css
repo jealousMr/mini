@@ -1,0 +1,47 @@
+
+#fontsE{
+    -fx-font-size: 15px;
+    -fx-text-fill: white;
+    -fx-padding: 2,2,2,2;
+}
+.list-view{
+    -fx-background-color: transparent;
+}
+.list-cell{
+    -fx-background-color: transparent;
+}
+#Bsend{
+    -fx-background-color: transparent;
+}
+#enter{
+    -fx-border-radius: 6;
+    -fx-background-radius: 6;
+    -fx-border-width: 3;
+    -fx-border-color: white;
+}
+#bpane{
+    -fx-background-color: transparent;
+}
+#bfile{
+    -fx-background-color: transparent;
+}
+#small{
+    -fx-background-color: transparent;
+}
+#sep{
+    -fx-background-color: white;
+}
+#svb{
+    -fx-border-color: #434343;
+    -fx-border-width: 3;
+    -fx-background-radius: 3;
+    -fx-background-radius: 3;
+}
+#tit{
+    -fx-border-width: 3;
+    -fx-border-color: #787878;
+}
+#biao{
+    -fx-border-width: 3;
+    -fx-border-color: #5d5d5d;
+}

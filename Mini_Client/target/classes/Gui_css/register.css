@@ -1,0 +1,24 @@
+#paneBack{
+    -fx-background-image: url("/GUI_img/LoginPage_img/registerView_img/55.png");
+}
+#border{
+    -fx-border-width: 0;
+    -fx-background-color: transparent;
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+}
+#ussep{
+    -fx-border-color: #dddbff;
+    -fx-background-color: #5488ff;
+}
+#close{
+    -fx-background-color: transparent;
+}
+#sure{
+    -fx-border-radius: 80;
+    -fx-background-radius: 80;
+    -fx-border-width: 3;
+    -fx-background-color: transparent;
+    -fx-border-color: pink;
+    -fx-fill-width: 5;
+}

@@ -1,0 +1,17 @@
+#btnc{
+    -fx-background-color: transparent;
+}
+#sep2{
+    -fx-background-color: #edfdff;
+}
+#newsImg{
+    -fx-background-image: url("/GUI_img/LoginPage_img/MainPageView_img/newsl.png");
+    -fx-background-repeat: no-repeat;
+}
+#temp{
+    -fx-background-image: url("/GUI_img/LoginPage_img/MainPageView_img/newsImg2.png");
+    -fx-background-repeat: no-repeat;
+}
+#ss{
+    -fx-background-color: white;
+}
